@@ -29,3 +29,7 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End all dedications */
+
+section[epub|type~="dedication"]{
+	font-variant: small-caps;
+}
