@@ -30,7 +30,7 @@ section[epub|type~="dedication"] > *{
 }
 /* End all dedications */
 
-section[epub|type~="dedication"]{
+section[epub|type~="dedication"] p{
 	font-variant: small-caps;
 }
 
