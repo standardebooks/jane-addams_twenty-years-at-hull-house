@@ -49,7 +49,7 @@
 		<meta property="se:subject">Autobiography</meta>
 		<dc:description id="description">Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Jane Addams was a famous social activist living in Chicago at the turn of the 20th century. She’s perhaps most famous for introducing the Settlement movement to the United States and for founding Hull House, a hugely influential settlement house in Chicago.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jane-addams"&gt;Jane Addams&lt;/a&gt; was a famous social activist living in Chicago at the turn of the 20th century. She’s perhaps most famous for introducing the Settlement movement to the United States and for founding Hull House, a hugely influential settlement house in Chicago.&lt;/p&gt;
 			&lt;p&gt;Settlement houses were founded on the idea of uplifting the poor working class by quartering the rich and poor together in close proximity. By living together under the guidance of settlement workers, the poor would have access to communal education, healthcare, day care, food, and shelter, allowing them to improve their positions in society instead of being ground under heel by the privations of poverty and the brutality of workhouses. Immigrants in particular could take advantage of the settlement’s safety net, helping them naturalize more easily in their new country as they struggled to find stability while both working and raising children.&lt;/p&gt;
 			&lt;p&gt;Hull House, named after the house’s original owner, was Addams’ life work. It brought together the urban poor, mostly recently-settled immigrants, together into a vast 13-building complex near the heart of Chicago’s downtown. In this book Addams describes the house, its founding, and its operations; because running the house was her life’s work, she considered this book to be her autobiography of sorts. Hull House remained in operation until 2012, operating continuously for over 120 years.&lt;/p&gt;
 			&lt;p&gt;For her work at Hull House and for her involvement in the Peace Movement of World War I, Addams was awarded the Nobel Peace Prize, becoming the award’s first American woman recipient. At the time of her death she was the most well-known female public figure in America.&lt;/p&gt;
@@ -106,6 +106,7 @@
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
@@ -139,6 +140,7 @@
 		<item href="text/chapter-18.xhtml" id="chapter-18.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
@@ -170,6 +172,7 @@
 		<itemref idref="chapter-16.xhtml"/>
 		<itemref idref="chapter-17.xhtml"/>
 		<itemref idref="chapter-18.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
