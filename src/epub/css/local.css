@@ -48,3 +48,51 @@ section[epub|type~="dedication"] p{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+/* All figures */
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+}
+/* End all figures */
+
+/* Full-page figures */
+figure.full-page{
+	break-after: page;
+	break-before: page;
+	break-inside: avoid;
+	margin: 0;
+	max-height: 100vh;
+	text-align: center;
+}
+
+@supports(display: flex){
+	figure.full-page{
+		display: flex;
+		flex-direction: column;
+	}
+
+	figure.full-page img{
+		height: 100vh;
+	}
+}
+/* End full-page figures */
+
+/* Block-level figures */
+figure{
+	break-inside: avoid;
+	margin: 1em auto;
+	text-align: center;
+}
+/* End block-level figures */
+
+.portrait{
+	max-width: 50%;
+}
