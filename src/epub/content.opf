@@ -30,7 +30,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Twenty Years at Hull House</dc:title>
 		<meta property="file-as" refines="#title">Twenty Years at Hull House</meta>
-		<meta property="se:alternate-title" refines="#title">20 Years at Hull House</meta>
+		<meta property="dcterms:alternate" refines="#title">20 Years at Hull House</meta>
 		<dc:subject id="subject-1">Women social reformers -- United States -- Biography</dc:subject>
 		<dc:subject id="subject-2">Addams, Jane, 1860-1935</dc:subject>
 		<dc:subject id="subject-3">Hull House (Chicago, Ill.) -- History</dc:subject>
