@@ -59,7 +59,7 @@
 		<dc:source>https://www.google.com/books/edition/Twenty_Years_at_Hull_House/RVQpAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">Note that `Leipsic` is actually the name of several Midwestern cities, so the spelling has not been modernized to `Leipzig`.</meta>
 		<meta property="se:word-count">104347</meta>
-		<meta property="se:reading-ease.flesch">40.15</meta>
+		<meta property="se:reading-ease.flesch">40.55</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-addams_twenty-years-at-hull-house</meta>
 		<dc:creator id="author">Jane Addams</dc:creator>
 		<meta property="file-as" refines="#author">Addams, Jane</meta>
