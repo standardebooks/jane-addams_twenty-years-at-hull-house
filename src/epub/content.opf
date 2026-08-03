@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house</dc:identifier>
 		<dc:date>2021-07-07T21:42:37Z</dc:date>
@@ -48,13 +48,13 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Autobiography</meta>
-		<dc:description id="description">Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jane-addams"&gt;Jane Addams&lt;/a&gt; was a famous social activist living in Chicago at the turn of the 20th century. She’s perhaps most famous for introducing the Settlement movement to the United States and for founding Hull House, a hugely influential settlement house in Chicago.&lt;/p&gt;
 			&lt;p&gt;Settlement houses were founded on the idea of uplifting the poor working class by quartering the rich and poor together in close proximity. By living together under the guidance of settlement workers, the poor would have access to communal education, healthcare, day care, food, and shelter, allowing them to improve their positions in society instead of being ground under heel by the privations of poverty and the brutality of workhouses. Immigrants in particular could take advantage of the settlement’s safety net, helping them naturalize more easily in their new country as they struggled to find stability while both working and raising children.&lt;/p&gt;
 			&lt;p&gt;Hull House, named after the house’s original owner, was Addams’ life work. It brought together the urban poor—mostly recently settled immigrants—together into a vast thirteen-building complex near the heart of Chicago’s downtown. In this book Addams describes the house, its founding, and its operations; because running the house was such a major part of her life, she considered this book to be her autobiography of sorts. Hull House remained open until 2012, operating continuously for over 120 years.&lt;/p&gt;
 			&lt;p&gt;For her work at Hull House and for her involvement in the Peace Movement of World War I, Addams was awarded the Nobel Peace Prize, becoming the award’s first American woman recipient. At the time of her death she was the most well-known female public figure in America.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1325</dc:source>
 		<dc:source>https://www.google.com/books/edition/Twenty_Years_at_Hull_House/RVQpAAAAYAAJ</dc:source>
