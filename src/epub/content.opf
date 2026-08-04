@@ -48,7 +48,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Autobiography</meta>
-		<dc:abstract>Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.</dc:abstract>
+		<meta property="schema:abstract">Jane Addams’ autobiographical account of the founding and operation of Hull House, one of America’s most famous settlement homes.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jane-addams"&gt;Jane Addams&lt;/a&gt; was a famous social activist living in Chicago at the turn of the 20th century. She’s perhaps most famous for introducing the Settlement movement to the United States and for founding Hull House, a hugely influential settlement house in Chicago.&lt;/p&gt;
 			&lt;p&gt;Settlement houses were founded on the idea of uplifting the poor working class by quartering the rich and poor together in close proximity. By living together under the guidance of settlement workers, the poor would have access to communal education, healthcare, day care, food, and shelter, allowing them to improve their positions in society instead of being ground under heel by the privations of poverty and the brutality of workhouses. Immigrants in particular could take advantage of the settlement’s safety net, helping them naturalize more easily in their new country as they struggled to find stability while both working and raising children.&lt;/p&gt;
